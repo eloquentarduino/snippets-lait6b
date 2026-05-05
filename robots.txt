@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eloquentarduino.github.io/snippets-lait6b/sitemap.xml
